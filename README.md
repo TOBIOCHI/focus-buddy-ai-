@@ -1,17 +1,33 @@
-# focusbuddy_ai
+# FocusBuddy AI
 
-A new Flutter project.
+FocusBuddy AI is an AI-powered productivity assistant designed to help users stay focused, manage tasks, and improve daily productivity.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Brain Dump
+- ADHD Rescue
+- Daily Briefing
+- Goal Tracking
+- Task Management
+- People That Matter
+- Communication Memory
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Firebase
+- Firestore
+- OpenAI API
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Status
+
+Currently under active development for the RIL AI Agents Hackathon 2026.
+
+## Roadmap
+
+- Project Setup
+- Firebase Integration
+- Brain Dump Feature
+- ADHD Rescue Feature
+- Daily Briefing
+- Testing & Deployment
